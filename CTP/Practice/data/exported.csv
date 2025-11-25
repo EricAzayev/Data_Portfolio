@@ -1,0 +1,7 @@
+good_strings,just_ints,mixed_types,just_strings,should_be_numbers,dang_this_is_easy,numbers_filled_na,random_numbs,rounded_numbs,mapped_data_nans,mapped_data
+a,1, 1, one,1.0,1.0,1.0,0.7062481555536493,0.71,front,front
+b,10,100, one hundred,,,-999.0,0.7596224279691042,0.76,front,front
+c,20, NULL   ,,,,-999.0,0.4369346346987739,0.44,,c
+z,99, 99.0,,,99.0,99.0,0.5285364672706246,0.53,back,back
+z,100,,,,,-999.0,0.1581821986639116,0.16,back,back
+z,200,200,MISSING,200.0,200.0,200.0,0.1472238854881467,0.15,back,back

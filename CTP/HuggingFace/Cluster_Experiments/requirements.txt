@@ -1,0 +1,10 @@
+gradio
+sentence-transformers
+umap-learn
+hdbscan  # Note: can also install via conda: conda install -c conda-forge hdbscan
+scikit-learn
+numpy
+matplotlib
+nltk
+pyclustering
+
